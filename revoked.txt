@@ -1,0 +1,2 @@
+# Nova Clipper block list
+# Har line par ek blocked key ID (K...) ya PC ID (NC-...). # ke baad wala hissa note hai.
